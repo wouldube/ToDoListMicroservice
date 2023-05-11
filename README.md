@@ -98,4 +98,4 @@ print(organized_tasks)
 
 ### UML Sequence Diagram
 
-![UML_Sequence_Diagram](https://github.com/wouldube/ToDoListMicroservice/assets/107458582/81681f33-1acc-4929-b158-2912486900f2)
+![UML_Sequence_Diagram](https://github.com/wouldube/ToDoListMicroservice/assets/107458582/cc27ee05-bc27-4b99-b681-fe9926eb30ed)
