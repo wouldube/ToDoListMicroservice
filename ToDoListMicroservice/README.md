@@ -98,13 +98,4 @@ print(organized_tasks)
 
 ### UML Sequence Diagram
 
-User                      Microservice
-  |                            |
-  |--- POST Request ---------->|
-  |   (Unsorted ToDo Lists)    |
-  |                            |
-  |<-------- Sorting --------- |
-  |                            |
-  |<--- Response --------------|
-  |   (Sorted ToDo Lists)      |
-  |                            |
+![UML_Sequence_Diagram](https://github.com/wouldube/ToDoListMicroservice/assets/107458582/81681f33-1acc-4929-b158-2912486900f2)
